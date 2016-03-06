@@ -1,6 +1,6 @@
-# TableFilter
+# Table Filter
 
-A simple module which adds a filtering row to given HTML table.
+A simple JavaScript module which adds a filtering row to given HTML table.
 
 ### Sample usage:
 
