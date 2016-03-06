@@ -293,7 +293,6 @@
         var length;
         var columnCellDataValues;
         var currentFilterValue;
-        var matchingOption;
         var filterDropdown = this.filterDropdowns[columnIndex];
         
         if (filterDropdown.selectedIndex > 0) {
