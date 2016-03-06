@@ -181,7 +181,12 @@
 <script type="text/javascript">
 
     (function () {
-        
+        document.addEventListener('DOMContentLoaded', function () {
+            TableFilter('.table');
+            // TableFilter('.table', {
+            //     numberOfColumns: 2
+            // });
+        });
     })();
 
 </script>
