@@ -1,6 +1,8 @@
 # Table Filter
 
-A simple JavaScript module which adds a filtering row to given HTML table.
+A simple JavaScript module which adds a filtering row with dropdown lists to given HTML table.
+
+No dependencies. Just vanilla JS.
 
 ### Sample usage:
 
